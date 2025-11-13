@@ -1,4 +1,4 @@
-package com.dzian1s.dailyplanner.ui.theme
+package com.example.dailyplanner.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

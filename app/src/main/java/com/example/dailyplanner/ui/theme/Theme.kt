@@ -1,5 +1,6 @@
-package com.dzian1s.dailyplanner.ui.theme
+package com.example.dailyplanner.ui.theme
 
+import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

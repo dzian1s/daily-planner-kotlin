@@ -1,4 +1,4 @@
-package com.dzian1s.dailyplanner
+package com.example.dailyplanner
 
 import org.junit.Test
 
